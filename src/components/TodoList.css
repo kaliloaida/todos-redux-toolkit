@@ -1,0 +1,8 @@
+
+.tasks-list{
+   
+    margin: auto;
+    padding : 0px;
+    text-decoration: line-through;
+    justify-content: space-between;
+}
